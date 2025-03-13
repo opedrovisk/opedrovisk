@@ -3,7 +3,7 @@
 
 👩‍💻 Buscando estágio em desenvolvimento de sistemas.
 
-🧠 Desenvolvendo habilidades profissionais em Java.
+🧠 Desenvolvendo habilidades profissionais em Java, Python e MySql.
 
  <div>
   <a href="https://github.com/opedrvisk">
