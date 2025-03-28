@@ -1,14 +1,15 @@
 ## ✨ Welcome to my profile! / Bem vindo(a) ao meu perfil!
 
+🔹 Meu nome é Pedro Henrique, tenho 19 anos e atualmente estou cursando engenharia de software na faculdade. Desenvolvendo projetos que complementam minha aprendizagem e portifólio profissional.
 
 👩‍💻 Buscando estágio em desenvolvimento de sistemas.
 
-🧠 Desenvolvendo habilidades profissionais em Java, Python e MySql.
+🧠 Desenvolvendo habilidades profissionais em Java, Python, HTML, CSS e MySql.
 
  <div>
   <a href="https://github.com/opedrvisk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&text_color=eebcce&bg_color=f7f1e4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=16&theme=solarized-light&text_color=eebcce&bg_color=f7f1e4"/>
 </div>
 
 <div style="display: inline_block"><br>
