@@ -8,10 +8,10 @@
 
  <div>
   <a href="https://github.com/opedrvisk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&show_icons=true&theme=bear&include_all_commits=true&count_private=true&text_color=eebcce&bg_color=f7f1e4"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=16&theme=bear&text_color=eebcce&bg_color=f7f1e4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&theme=cobalt&show_icons=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
-
+   
 <div style="display: inline_block"><br>
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
