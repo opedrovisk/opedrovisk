@@ -8,8 +8,8 @@
 
  <div>
   <a href="https://github.com/opedrvisk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&text_color=eebcce&bg_color=f7f1e4"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=16&theme=solarized-light&text_color=eebcce&bg_color=f7f1e4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&show_icons=true&theme=bear&include_all_commits=true&count_private=true&text_color=eebcce&bg_color=f7f1e4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=16&theme=bear&text_color=eebcce&bg_color=f7f1e4"/>
 </div>
 
 <div style="display: inline_block"><br>
