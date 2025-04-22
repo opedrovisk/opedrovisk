@@ -1,17 +1,25 @@
-## ✨ Welcome to my profile! / Bem vindo(a) ao meu perfil!
+## Hello there! Welcome to my profile! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
-🔹 Meu nome é Pedro Henrique, tenho 19 anos e atualmente estou cursando engenharia de software na faculdade. Desenvolvendo projetos que complementam minha aprendizagem e portifólio profissional.
+<p align="center">
+  👩‍💻 My name is Pedro Henrique! I'm a software engineering student aspiring to become a professional in the field. At 19 years old, I may not have professional experience yet, but I’m currently working on personal programming projects that enhance both my learning and future career prospects.
+</p>
 
-👩‍💻 Buscando estágio em desenvolvimento de sistemas.
+---
 
-🧠 Desenvolvendo habilidades profissionais em Java, Python, HTML, CSS e MySql.
-
+<img align="right"
+     src="https://media1.tenor.com/m/Gp7KAOMl6KEAAAAC/emi-emilia.gif"
+     alt="emilia acenando"
+     height="400px" />
+     
  <div>
   <a href="https://github.com/opedrvisk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&theme=cobalt&show_icons=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=16&theme=cobalt"/>
-  <img width=400 src="https://nirzak-streak-stats.vercel.app/?user=opedrvisk&theme=cobalt&bg_color=#193549&hide_border=true" alt="NirZak Readme Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&theme=material-palenight&show_icons=true)"/>
 </div>
+ <div>
+  <a href="https://github.com/opedrvisk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=16&theme=material-palenight"/>
+ </div>
+  
    
 <div style="display: inline_block"><br>
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
@@ -24,7 +32,7 @@
 
 
   ##
- 📫 Como entrar em contato comigo:
+ 📫 Find me on social media!
 <div> 
   <a href="https://instagram.com/opedrovisk_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/opedrovisk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
