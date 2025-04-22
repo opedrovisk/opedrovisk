@@ -10,6 +10,7 @@
   <a href="https://github.com/opedrvisk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&theme=cobalt&show_icons=true)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=16&theme=cobalt"/>
+  <img width=400 src="https://nirzak-streak-stats.vercel.app/?user=opedrvisk&theme=cobalt&bg_color=#193549&hide_border=true" alt="NirZak Readme Streak" />
 </div>
    
 <div style="display: inline_block"><br>
@@ -31,5 +32,4 @@
   <a href = "mailto:pedro.hmj.rocha77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/opedrovisk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=opedrvisk&theme=cobalt&background_color=#20344c&hide_border=true" alt="NirZak Readme Streak" />
  
