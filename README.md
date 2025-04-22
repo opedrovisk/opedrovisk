@@ -14,9 +14,6 @@
  <div>
   <a href="https://github.com/opedrvisk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&theme=material-palenight&show_icons=true)"/>
-</div>
- <div>
-  <a href="https://github.com/opedrvisk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=16&theme=material-palenight"/>
  </div>
   
@@ -30,8 +27,8 @@
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
 </div>
 
+---
 
-  ##
  📫 Find me on social media!
 <div> 
   <a href="https://instagram.com/opedrovisk_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
