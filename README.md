@@ -9,7 +9,7 @@
 <img align="right"
      src="https://media1.tenor.com/m/3Kqrr2Wv5-AAAAAC/emi-emilia.gif"
      alt="emilia confiante"
-     height="440px" />
+     height="400px" />
      
  <div>
   <a href="https://github.com/opedrvisk">
