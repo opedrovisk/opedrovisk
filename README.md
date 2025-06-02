@@ -14,7 +14,7 @@
  <div>
   <a href="https://github.com/opedrvisk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&theme=material-palenight&show_icons=true)"/>
-  <img height="229em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=10&theme=material-palenight"/>
+  <img height="229em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=11&theme=material-palenight"/>
  </div>
   
    
