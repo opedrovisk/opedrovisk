@@ -40,6 +40,6 @@
   <a href="https://instagram.com/opedrovisk_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/opedrovisk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://x.com/opedrovisk" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" target="_blank"></a> 
- 	<a href="https://www.twitch.tv/opedrovisk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" target="_blank"></a>
+ 	
  
  
