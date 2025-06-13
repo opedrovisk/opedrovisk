@@ -9,12 +9,12 @@
 <img align="right"
      src="https://media1.tenor.com/m/E1EW9pwYAz4AAAAC/frieren-anime.gif"
      alt="frieren"
-     height="420px" />
+     height="412px" />
      
  <div>
   <a href="https://github.com/opedrvisk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&theme=catppuccin_latte&show_icons=true)"/>
-  <img height="229em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=12&theme=catppuccin_latte"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&theme=catppuccin_latte&show_icons=true)"/>
+  <img height="235em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=12&theme=catppuccin_latte"/>
  </div>
   
    
