@@ -7,7 +7,7 @@
 ---
 
 <img align="right"
-     src="https://media1.tenor.com/m/mao9juJdnJ4AAAAC/sousou-no-frieren-%D1%84%D1%80%D0%B8%D1%80%D0%B5%D0%BD.gif"
+     src="https://media1.tenor.com/m/Jxol42Owow0AAAAd/anime-frieren.gif"
      alt="frieren"
      height="410px" />
      
