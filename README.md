@@ -7,14 +7,14 @@
 ---
 
 <img align="right"
-     src="https://media1.tenor.com/m/Gp7KAOMl6KEAAAAC/emi-emilia.gif "
-     alt="emilia confiante"
+     src="https://media1.tenor.com/m/ZpsVXc5WoBgAAAAC/anime-frieren.gif"
+     alt="frieren and fern"
      height="412px" />
      
  <div>
   <a href="https://github.com/opedrvisk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&theme=material-palenight&show_icons=true)"/>
-  <img height="229em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=12&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&theme=catppuccin_latte&show_icons=true)"/>
+  <img height="229em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=12&theme=catppuccin_latte"/>
  </div>
   
    
