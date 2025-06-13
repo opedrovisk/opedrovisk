@@ -9,7 +9,7 @@
 <img align="right"
      src="https://media1.tenor.com/m/Jxol42Owow0AAAAd/anime-frieren.gif"
      alt="frieren"
-     height="330px" />
+     height="300px" />
      
  <div>
   <a href="https://github.com/opedrvisk">
