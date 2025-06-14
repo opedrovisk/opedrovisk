@@ -13,8 +13,8 @@
      
  <div>
   <a href="https://github.com/opedrvisk">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=opedrvisk&theme=catppuccin_latte&show_icons=true)"/>
-  <img height="235em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrvisk&layout=compact&langs_count=12&theme=catppuccin_latte"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=opedrovisk&theme=catppuccin_latte&show_icons=true)"/>
+  <img height="235em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrovisk&layout=compact&langs_count=12&theme=catppuccin_latte"/>
  </div>
   
    
