@@ -7,8 +7,8 @@
 ---
 
 <img align="right"
-     src="https://media1.tenor.com/m/jbiCisURGyUAAAAC/hakase-key.gif"
-     alt="frieren"
+     src="https://media1.tenor.com/m/5g-hgOAftZoAAAAd/mugi-tsumugi.gif"
+     alt="tsumugi"
      height="390px" />
      
  <div>
