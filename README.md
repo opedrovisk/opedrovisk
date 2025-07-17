@@ -9,7 +9,7 @@
 <img align="right"
      src="https://media1.tenor.com/m/bGaxC4WnzjkAAAAd/clap-clap-castanet.gif"
      alt="yuizinha"
-     height="372px" />
+     height="375px" />
      
  <div>
   <a href="https://github.com/opedrvisk">
