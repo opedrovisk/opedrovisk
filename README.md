@@ -9,7 +9,7 @@
 <img align="right"
      src="https://media1.tenor.com/m/jbiCisURGyUAAAAC/hakase-key.gif"
      alt="frieren"
-     height="400px" />
+     height="380px" />
      
  <div>
   <a href="https://github.com/opedrvisk">
