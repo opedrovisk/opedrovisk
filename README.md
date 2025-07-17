@@ -9,7 +9,7 @@
 <img align="right"
      src="https://media1.tenor.com/m/bGaxC4WnzjkAAAAd/clap-clap-castanet.gif"
      alt="tsumugi"
-     height="375px" />
+     height="370px" />
      
  <div>
   <a href="https://github.com/opedrvisk">
