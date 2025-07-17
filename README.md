@@ -9,12 +9,12 @@
 <img align="right"
      src="https://media1.tenor.com/m/bGaxC4WnzjkAAAAd/clap-clap-castanet.gif"
      alt="yuizinha"
-     height="368px" />
+     height="372px" />
      
  <div>
   <a href="https://github.com/opedrvisk">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=opedrovisk&theme=ayu-mirage&show_icons=true)"/>
-  <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrovisk&layout=compact&langs_count=4&theme=ayu-mirage"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=opedrovisk&theme=ayu-mirage&show_icons=true)"/>
+  <img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrovisk&layout=compact&langs_count=4&theme=ayu-mirage"/>
  </div>
   
    
