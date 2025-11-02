@@ -1,7 +1,8 @@
 ## Hello there! Welcome to my profile! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
 <p align="center">
-  👩‍💻 My name is Pedro Henrique! I'm a software engineering student aspiring to become a professional in the field. At 19 years old, I may not have professional experience yet, but I’m currently working on personal programming projects that enhance both my learning and future career prospects.
+  👩‍💻 My name is Pedro Henrique, and I’m a Software Engineering student passionate about technology and development. At 19 years old, I already have real-world experience working on web development projects with C# at Vox Soluções em TI, where I apply and expand my technical skills through hands-on professional projects.
+In addition, I continue to develop personal programming projects that strengthen my learning and contribute to my growth as a future software engineer.
 </p>
 
 ---
