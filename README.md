@@ -11,13 +11,6 @@ In addition, I continue to develop personal programming projects that strengthen
      src="https://media1.tenor.com/m/bGaxC4WnzjkAAAAd/clap-clap-castanet.gif"
      alt="yuizinha"
      height="375px" />
-     
- <div>
-  <a href="https://github.com/opedrvisk">
-  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=opedrovisk&theme=ayu-mirage&show_icons=true)"/>
-  <img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrovisk&layout=compact&langs_count=4&theme=ayu-mirage"/>
- </div>
-  
    
 <div style="display: inline_block"><br>
   <img align="center" alt="CSHARP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
