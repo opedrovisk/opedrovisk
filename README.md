@@ -22,6 +22,7 @@ In addition, I continue to develop personal programming projects that strengthen
   <img align="center" alt="DART" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" alt="FLUTTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="ELASTICSEARCH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
   <img align="center" alt="JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
   <img align="center" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
