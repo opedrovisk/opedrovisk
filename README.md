@@ -1,6 +1,5 @@
 <h2 align="center">
   🌟 Hello there! Welcome to my profile! 🌟 
-  <img src="https://i.imgur.com/GNz3qCl.gif" width="30px" style="vertical-align: middle;">
 </h2>
 
 <p align="center">
