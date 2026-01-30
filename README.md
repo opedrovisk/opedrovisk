@@ -1,7 +1,9 @@
-## Hello there! Welcome to my profile! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+<h2 align="center">
+  🌟 Hello there! Welcome to my profile! 🌟 
+  <img src="https://i.imgur.com/GNz3qCl.gif" width="30px" style="vertical-align: middle;">
+</h2>
 
 <p align="center">
-
   <div style="
     width: 900px;
     border-radius: 24px;
@@ -9,11 +11,10 @@
     margin: auto;
   ">
     <img
-      src="https://media1.tenor.com/m/K9wgXf5T9XUAAAAC/anime-oshi-no-ko.gif"
+      src="https://media1.tenor.com/m/iQnsrLgLvjAAAAAC/oshi-no-ko-b-komachi.gif"
       width="900"
     />
   </div>
-
 </p>
 
 <p align="center">
