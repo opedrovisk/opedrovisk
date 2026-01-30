@@ -8,7 +8,7 @@
     margin: auto;
   ">
     <img 
-      src="https://media1.tenor.com/m/TSPY4kOMSdsAAAAC/ruby-hoshino-oshi-no-ko.gif"
+      src="https://media1.tenor.com/m/xFsRGtGutQoAAAAC/oshi-no-ko-ruby-hoshino.gif"
       width="900"
     />
   </div>
