@@ -1,51 +1,177 @@
 ## Hello there! Welcome to my profile! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
 <p align="center">
-  👩‍💻 My name is Pedro Henrique, and I’m a Software Engineering student passionate about technology and development. At 19 years old, I already have real-world experience working on web development projects with C# at Vox Soluções em TI, where I apply and expand my technical skills through hands-on professional projects.
-In addition, I continue to develop personal programming projects that strengthen my learning and contribute to my growth as a future software engineer.
+  <div style="
+    width: 900px;
+    border-radius: 24px;
+    overflow: hidden;
+    margin: auto;
+  ">
+    <img 
+      src="https://media1.tenor.com/m/-vKY__mGiKQAAAAC/kaoruko-waguri-kaoruko.gif"
+      width="900"
+    />
+  </div>
 </p>
 
----
-
-<img align="right"
-     src="https://media1.tenor.com/m/bGaxC4WnzjkAAAAd/clap-clap-castanet.gif"
-     alt="yuizinha"
-     height="375px" />
-   
-<div style="display: inline_block"><br>
-  <img align="center" alt="CSHARP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="DOTNET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="BLAZOR" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
-  <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="AXIOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
-  <img align="center" alt="AZURE" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-  <img align="center" alt="DART" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-  <img align="center" alt="FLUTTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="ELASTICSEARCH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
-  <img align="center" alt="JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-  <img align="center" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-   <img align="center" alt="JSON" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg">
-  <img align="center" alt="Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="VUEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="TOMCAT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg">
-  <img align="center" alt="POSTMAN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="FIREBIRD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" />
+<div align="justify">
+<a href="https://www.instagram.com/opedrovisk_/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.twitter.com/opedrovisk_/">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/opedrovisk/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
 </div>
 
----
 
- 📫 Find me on social media!
-<div> 
-  <a href="https://instagram.com/opedrovisk_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/opedrovisk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/opedrovisk" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" target="_blank"></a> 
- 	
- 
+
+<p></p>
+<p align="justify">
+👩‍💻 My name is Pedro Henrique, and I’m a Software Engineering student passionate about technology and development. At 19 years old, I already have real-world experience working on web development projects with C# at Vox Soluções em TI, where I apply and expand my technical skills through hands-on professional projects.
+In addition, I continue to develop personal programming projects that strengthen my learning and contribute to my growth as a future software engineer.
+
+</p>
+
+## My favorite tools and technologies ⚙️
+
+> Tools and Technologies I have worked with and Am currently studying
+
+   
+<table>
+  <!-- LINHA 1 -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
+      <br>Java
+    </td>
+  </tr>
+
+  <!-- LINHA 2 -->
+  <tr>
+      <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" />
+      <br>.NET
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="65" height="65" />
+      <br>Axios
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="65" height="65" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="60" height="60" />
+      <br>Blazor
+    </td>
+        <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="60" height="60" />
+      <br>Entity
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="60" height="60" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="60" height="60" />
+      <br>Dart
+    </td>
+  </tr>
+
+  <!-- LINHA 3 -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60" height="60" />
+      <br>SQL Server
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="60" height="60" />
+      <br>Elasticsearch
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60" height="60" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="60" height="60" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="60" height="60" />
+      <br>Firebird
+    </td>
+  </tr>
+
+  <!-- LINHA 4 -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="60" height="60" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="60" height="60" />
+      <br>JSON
+    </td>
+          <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="60" height="60" />
+      <br>Swagger
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="65" height="65" />
+      <br>Vue.js
+    </td>
+      <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" width="60" height="60" />
+      <br>TOMCAT
+    </td>
+  </tr>
+</table>
+
+
+
  
