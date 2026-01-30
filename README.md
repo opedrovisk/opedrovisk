@@ -33,8 +33,10 @@
   </div>
 </p>
 
-## My favorite tools and technologies ⚙️
-
+<h2 align="center">
+ My favorite tools and technologies ⚙️
+<h2>
+  
 > Tools and Technologies I have worked with and Am currently studying
 
 <div align="center">
