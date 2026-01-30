@@ -3,13 +3,14 @@
 <p align="center">
   <div style="
     width: 900px;
+    height: 300px; 
     border-radius: 24px;
     overflow: hidden;
     margin: auto;
   ">
     <img 
-      src="https://media1.tenor.com/m/xFsRGtGutQoAAAAC/oshi-no-ko-ruby-hoshino.gif"
-      width="900"
+      src="https://media1.tenor.com/m/xFsRGtGutQoAAAAC/oshi-no-ko-ruby-hoshino.gif" 
+      style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
     />
   </div>
 </p>
@@ -18,7 +19,7 @@
   <a href="https://www.instagram.com/opedrovisk_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a href="https://www.twitter.com/opedrovisk_/">
+  <a href="https://www.twitter.com/opedrovisk/">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/opedrovisk/">
