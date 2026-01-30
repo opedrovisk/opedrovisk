@@ -19,20 +19,6 @@
 👩‍💻 My name is Pedro Henrique, and I’m a Software Engineering student passionate about technology and development. At 19 years old, I have solid knowledge in web development using C# and the .NET ecosystem, working with modern tools and frameworks to build robust and scalable applications. In addition, I actively develop personal programming projects that strengthen my learning and contribute to my growth as a future software engineer.
 </p>
 
-<p align="center">
-  <div style="
-    width: 900px;
-    border-radius: 24px;
-    overflow: hidden;
-    margin: auto;
-  ">
-    <img
-      src="https://media1.tenor.com/m/iQnsrLgLvjAAAAAC/oshi-no-ko-b-komachi.gif"
-      width="900"
-    />
-  </div>
-</p>
-
 <h2 align="center">
  My favorite tools and technologies ⚙️
 <h2>
@@ -162,4 +148,19 @@
       </td>
     </tr>
   </table>
+
+  <p align="center">
+  <div style="
+    width: 900px;
+    border-radius: 24px;
+    overflow: hidden;
+    margin: auto;
+  ">
+    <img
+      src="https://media1.tenor.com/m/iQnsrLgLvjAAAAAC/oshi-no-ko-b-komachi.gif"
+      width="900"
+    />
+  </div>
+</p>
+
 </div>
