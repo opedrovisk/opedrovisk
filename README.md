@@ -1,18 +1,19 @@
 ## Hello there! Welcome to my profile! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
 <p align="center">
+
   <div style="
     width: 900px;
-    height: 300px; 
     border-radius: 24px;
     overflow: hidden;
     margin: auto;
   ">
-    <img 
-      src="https://media1.tenor.com/m/xFsRGtGutQoAAAAC/oshi-no-ko-ruby-hoshino.gif" 
-      style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
+    <img
+      src="https://media1.tenor.com/m/K9wgXf5T9XUAAAAC/anime-oshi-no-ko.gif"
+      width="900"
     />
   </div>
+
 </p>
 
 <p align="center">
