@@ -158,7 +158,7 @@
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" width="60" height="60" />
-        <br>TOMCAT
+        <br>TomCat
       </td>
     </tr>
   </table>
