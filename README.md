@@ -4,20 +4,6 @@
 </h2>
 
 <p align="center">
-  <div style="
-    width: 900px;
-    border-radius: 24px;
-    overflow: hidden;
-    margin: auto;
-  ">
-    <img
-      src="https://media1.tenor.com/m/iQnsrLgLvjAAAAAC/oshi-no-ko-b-komachi.gif"
-      width="900"
-    />
-  </div>
-</p>
-
-<p align="center">
   <a href="https://www.instagram.com/opedrovisk_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
@@ -31,6 +17,20 @@
 
 <p align="justify">
 👩‍💻 My name is Pedro Henrique, and I’m a Software Engineering student passionate about technology and development. At 19 years old, I have solid knowledge in web development using C# and the .NET ecosystem, working with modern tools and frameworks to build robust and scalable applications. In addition, I actively develop personal programming projects that strengthen my learning and contribute to my growth as a future software engineer.
+</p>
+
+<p align="center">
+  <div style="
+    width: 900px;
+    border-radius: 24px;
+    overflow: hidden;
+    margin: auto;
+  ">
+    <img
+      src="https://media1.tenor.com/m/iQnsrLgLvjAAAAAC/oshi-no-ko-b-komachi.gif"
+      width="900"
+    />
+  </div>
 </p>
 
 ## My favorite tools and technologies ⚙️
