@@ -15,7 +15,7 @@
 </p>
 
 <p align="justify">
-👩‍💻 My name is Pedro Henrique, and I’m a Software Engineering student passionate about technology and development. At 19 years old, I have solid knowledge in web development using C# and the .NET ecosystem, working with modern tools and frameworks to build robust and scalable applications. In addition, I actively develop personal programming projects that strengthen my learning and contribute to my growth as a future software engineer.
+👩‍💻 My name is Pedro Henrique, and I’m a Software Engineering student passionate about technology and development. At 20 years old, I have solid knowledge in web development using C# and the .NET ecosystem, working with modern tools and frameworks to build robust and scalable applications. In addition, I actively develop personal programming projects that strengthen my learning and contribute to my growth as a future software engineer.
 </p>
 
   <p align="center">
